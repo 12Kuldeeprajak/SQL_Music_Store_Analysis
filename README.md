@@ -11,7 +11,7 @@ This repository contains SQL queries and scripts for analyzing a hypothetical mu
 - [Database Schema](#database-schema)
 - [Queries](#queries)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
@@ -46,10 +46,6 @@ Explore the [queries](queries/) directory for SQL scripts that analyze various a
 ## Contributing
 
 If you would like to contribute to this project, feel free to submit a pull request with your enhancements. Ensure your code follows the project's coding standards and includes appropriate documentation.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
