@@ -24,7 +24,7 @@ git clone https://github.com/12Kuldeeprajak/SQL_Music_Store_Analysis.git
 Ensure you have a SQL database management system installed (e.g., MySQL, PostgreSQL), and execute the SQL scripts in your preferred environment.
 
 ## Database Schema
-
+https://github.com/12Kuldeeprajak/SQL_Music_Store_Analysis/blob/main/MusicDatabaseSchema.png
 The database schema for the music store includes the following tables:
 
 - `artists`
