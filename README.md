@@ -25,6 +25,8 @@ Ensure you have a SQL database management system installed (e.g., MySQL, Postgre
 
 ## Database Schema
 https://github.com/12Kuldeeprajak/SQL_Music_Store_Analysis/blob/main/MusicDatabaseSchema.png
+![MusicDatabaseSchema](https://github.com/12Kuldeeprajak/SQL_Music_Store_Analysis/assets/114775510/eb304b29-a839-47b9-b244-68e1f017c67f)
+
 The database schema for the music store includes the following tables:
 
 - `artists`
